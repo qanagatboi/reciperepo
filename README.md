@@ -1,2 +1,3 @@
 # reciperepo
 This is the REALLY FIRST REPO BY ME!!!!
+Today is 29-09-22; 22:38 PM and I decided start my programming journey. Lets see where it leads me exactly...
